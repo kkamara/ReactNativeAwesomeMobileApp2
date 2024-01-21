@@ -2,6 +2,8 @@
 
 # ReactNativeAwesomeMobileApp2
 
+(21-Jan-2024).
+
 # Installation
 
 ```bash
