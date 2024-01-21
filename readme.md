@@ -1,4 +1,4 @@
-<img src="https://github.com/kkamara/useful/blob/main/react-native-starter-mobile-app.png?raw=true" alt="react-native-starter-mobile-app.png" width=""/>
+<img src="https://raw.githubusercontent.com/kkamara/useful/main/ReactNativeAuthenticationMobileApp.png" alt="ReactNativeAuthenticationMobileApp.png" width=""/>
 
 # ReactNativeAwesomeMobileApp2
 
